@@ -7,5 +7,5 @@ IDE: PyCharm 2016.2.3.
 
 ##Getting started
 1. Установить Python 3
-2. Установить PyQt5, NumPy (пример см. в записке)
+2. Установить PyQt5, NumPy (пример для Ubuntu см. в записке)
 3. Выполнить *main.pyw*
